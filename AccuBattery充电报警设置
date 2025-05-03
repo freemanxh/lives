@@ -1,0 +1,35 @@
+https://baiyunju.cc/9074
+
+第一步：在手机设置中授权给AccuBattery允许通知权限
+“设置”-“应用设置”-“授权管理”-“应用管理”，找到AccuBattery后，将锁屏显示、后台弹出界面等权限打开。
+“设置”-“通知与控制中心”-“通知管理”，确保AccuBattery后面的开关是开启状态。
+第二步：在AccuBattery APP内设置充电通知方式
+点击AccuBattery应用右上角的三个点按钮，再点击“设置”，进入以下页面：
+显示在安全锁屏上->打开
+Notification priority & status bar icon
+充电警报：Charge alarm sound & vibration
+-------------------------------------------------
+Notification priority & status bar icon
+Settings has moved to system settings in　Oreo.Click here to configure notification priority and status bar icon in system settings.
+通知优先级和状态栏图标
+设置已移至安卓系统设置，单击此处可在系统设置中配置通知优先级和状态栏图标。
+
+Export notification sounds
+Make the AccuBattery sounds available in notification sound picker.
+导出通知声音
+使 AccuBattery 声音在通知声音选择器中可用。
+
+Charge alarm sound & vibration
+Settings has moved to system settings in Oreo.Click here to configure notificationsound and vibration in system settings.
+充电报警声音和振动
+设置已移至安卓系统设置。单击此处可在系统设置中配置通知声音和振动。
+================================================
+
+允许通知->开
+悬浮通知权限->开
+锁屏通知权限->开
+发声权限->开
+振动权限->开
+
+下面通知类加，开户口允许通知，悬浮通知权限，等
+Battery status 只开启允许通知
